@@ -1,0 +1,68 @@
+h1{ color:rgb(41, 4, 4);
+    background-color: wheat;
+    font-size: 6ex;
+    font-family: Garamond;
+    
+
+
+}
+h2{
+    color:rgb(41, 4, 4);
+    background-color: wheat;
+    font-style: italic;
+    font-family: Garamond;
+    
+}
+
+p{
+    background-color:wheat;
+    font-size: 4ex;
+    font-family: Garamond;
+    text-transform: capitalize;
+    margin: 2cm;
+    
+}
+
+body{
+    background-color:coral;
+    background-image: url("images/plant pic.jpeg");
+    background-size: auto;
+}
+li{ 
+    color:rgb(41, 4, 4);
+    font-family:cursive;
+    font-size: 1em;
+}
+a {
+    color:rgb(41, 4, 4);
+    font-size: 30px;
+    background-color: rgb(235, 233, 213);
+    font-family: Garamond;
+    font-style: italic;
+}
+a:link{
+    color: rgb(255, 26, 255);
+    background-color: rgb(255, 204, 255);
+
+}
+a:visited{
+    color: rgb(77, 0, 77);
+    background-color: rgb(0, 0, 0)
+}
+a:hover{
+    color: rgb(0, 0, 0);
+    background-color: rgb(235, 233, 213);
+}
+.flex-container{
+    display: flex;
+    flex-direction: row;
+}
+.center{
+    margin: auto;
+    width: 80%;
+
+}
+
+
+
+
