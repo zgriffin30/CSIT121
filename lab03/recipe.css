@@ -1,0 +1,46 @@
+h1{ color:rgb(41, 4, 4);
+    background-color: wheat;
+    font-size: 6ex;
+    font-family: Garamond;
+    
+
+
+}
+h2{
+    color:rgb(41, 4, 4);
+    background-color: wheat;
+    font-style: italic;
+    font-family: Garamond;
+    
+}
+
+p{
+    background-color:wheat;
+    font-size: 4ex;
+    font-family: Garamond;
+    text-transform: capitalize;
+    margin: 2cm;
+    
+}
+
+body{
+    background-color:coral;
+    background-image: url(images/plant\ pic.jpeg);
+}
+li{ 
+    color:rgb(41, 4, 4);
+    font-family:cursive;
+    font-size: 1em;
+}
+a {
+    color:rgb(41, 4, 4);
+    font-size: 30px;
+    background-color: rgb(235, 233, 213);
+    font-family: Garamond;
+    font-style: italic;
+    
+}
+
+
+
+
