@@ -26,6 +26,7 @@ p{
 body{
     background-color:coral;
     background-image: url("images/plant pic.jpeg");
+    background-size: cover;
 }
 li{ 
     color:rgb(41, 4, 4);
